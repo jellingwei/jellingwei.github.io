@@ -1,0 +1,22 @@
+<section>
+  <p> </p>
+  <p> <b> Ling Wei Zhen Trading </b> <br> <a href="{{ site.github.url | replace: 'http://', '//' }}/pages/contact.html">49 Temple St, Singapore 058594</a></p>
+  <p> 各系列旧钞，金银币，水晶，鼻烟壶，瓷器，木雕，玉器，字画，紫砂，奇石古玩等等。
+  </p>
+  <p> Humble collection of old coins, gold & silver coins, banknotes, fine jade carvings, snuff bottles, chinese antique porcelains, bronze wares, wood carvings and other collectibles. 
+  </p>
+  
+  
+
+  <div class="thumb-container">
+    {% for project in site.data.settings.projects %}
+      <a href="{{ site.github.url | replace: 'http://', '//' }}/{{ project.file }}">
+        <div class="thumb-unit" data-folder="{{ site.github.url | replace: 'http://', '//' }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url | replace: 'http://', '//' }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
+          <div class="thumb-overlay">
+            <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>

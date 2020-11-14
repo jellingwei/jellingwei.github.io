@@ -1,0 +1,93 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: '主页 | Home', url: ''}
+# - {name: 'Blog', url: 'pages/blog.html'}
+- {name: '介绍 | About', url: 'pages/about.html'}
+- {name: '联络 | Contact', url: 'pages/contact.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Ling Wei Zhen Trading. Collectibles. We trade in old (including limited-edition and commemorative) coins, banknotes, antiques, accessories, and other collectibles. We have been running for 20 years in Chinatown.'
+  rel-author: 'Ling Wei Zhen Trading'
+  rel-publisher: 'Ling Wei Zhen Trading'
+
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: ''
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+#  disqus_shortname: 'thathungrymind'
+
+#-------------------------------
+# About Section
+
+about: >
+  # Ling Wei Zhen Trading
+
+  <p>Founded by Huang YS. <br>
+  Antiques, Collectibles Store in Chinatown, Singapore. <br>
+  For over 20 years, we trade (both buy and sell) in <b>old notes</b>, <b>gold/sliver coins</b>, <b>crystals</b>, <b>porcelains</b>, <b>snuff bottles</b>, <b>wood carvings</b>, <b>jade</b>, <b>old paintings</b>, <b>precious stones</b>, <b>accessories</b>, <b>antiques</b>.   
+  <br> </p>
+  
+  <p>玲瑋珍錢幣古玩最早开始于1996年，已经有二十多年的历史。<br> 
+  早期我们在新加坡主要经营古玩买卖，店里收藏各系列古玩，种类品种很多，像是有水晶，鼻烟壶，瓷器，木雕，玉器，字画，紫砂，奇石古玩等等。
+  后来，我们也不断的继续学习创新，现在也经营旧钞，金银币买卖 （新加坡，中国，马来西亚 等等）。
+  小店位于49牛车水登婆街，欢迎大家来我们店里参观，我们会尽心为您介绍商品，也希望能切磋知识。
+  若有适合的旧钞钱币，我们也会高价收购您的旧钞钱币哦！
+  </p>
+  
+  <p> We are located at 49 Temple St, Singapore 058594. <br>
+  <i class="fa fa-clock-o" aria-hidden="true"></i> Business hours: <br>
+  Monday - Sunday: 11am - 7pm <br> </p>
+  
+
+
+contact: >
+  # Ling Wei Zhen Trading
+
+  <i class="fa fa-map-marker" aria-hidden="true"></i> 49 Temple Street <br>
+  Singapore 058594 <br><br>
+  
+  <i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp： +65 82608282 （黄)   <br>
+  
+  <i class="fa fa-user-circle-o" aria-hidden="true"></i><a href = "https://www.carousell.sg/coincollectibles"> https://www.carousell.sg/coincollectibles </a> <br>
+  
+  3 minutes walk from Exit A of Chinatown MRT Station. <br>
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: '鼻烟壶', folder: 'snuffBottles', file: 'projects/snuffBottles.html'}
+- {name: '旧钞钱币', folder: 'notes', file: 'projects/notes.html'}
+# - {name: '古玩', folder: 'antiques', file: 'projects/antiques.html'}
+# - {name: '奇石', folder: 'ps', file: 'projects/ps.html'}
+# - {name: '茶壶', folder: 'teapots', file: 'projects/teapots.html'}
+
+
+#-------------------------------
+# Contact Section
+
+# social:
+# - {icon: 'envelope', link: 'mailto:#'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

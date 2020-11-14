@@ -1,0 +1,10 @@
+<header>
+  <div class="logo">
+    <a href="{{ site.github.url | replace: 'http://', '//' }}/">{{ site.title }}</a>
+  </div>
+  <nav>
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url | replace: 'http://', '//' }}/{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+  </nav>
+</header>
