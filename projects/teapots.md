@@ -3,5 +3,6 @@ layout: post
 title: 'Teapots'
 ---
 
-
-{% include image.html image="projects/proj-3/clothes.jpg" %}
+## 茶壶 | Teapots
+{% include image.html image="projects/teapots/teapot2.jpg" %}
+{% include image.html image="projects/teapots/teapot3.jpg" %}
