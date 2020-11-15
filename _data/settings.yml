@@ -43,10 +43,12 @@ disqus:
 about: >
   # Ling Wei Zhen Trading
 
-  <p>Founded by Huang YS. <br>
-  Antiques, Collectibles Store in Chinatown, Singapore. <br>
-  For over 20 years, we trade (both buy and sell) in <b>old notes</b>, <b>gold/sliver coins</b>, <b>crystals</b>, <b>porcelains</b>, <b>snuff bottles</b>, <b>wood carvings</b>, <b>jade</b>, <b>old paintings</b>, <b>precious stones</b>, <b>accessories</b>, <b>antiques</b>.   
-  <br> </p>
+  <p>
+  Antiques, collectibles Store in Chinatown. <br>
+  We buy and sell <b>old notes</b>, <b>gold/sliver coins</b>, <b>crystals</b>, <b>porcelains</b>, <b>snuff bottles</b>, <b>wood carvings</b>, <b>jade</b>, <b>old paintings</b>, <b>precious stones</b>, <b>accessories</b>, <b>antiques</b>.   
+  We have been operating for 20 years.
+  <br> 
+  Founded by Huang YS. <br></p>
   
   <p>玲瑋珍錢幣古玩最早开始于1996年，已经有二十多年的历史。<br> 
   早期我们在新加坡主要经营古玩买卖，店里收藏各系列古玩，种类品种很多，像是有水晶，鼻烟壶，瓷器，木雕，玉器，字画，紫砂，奇石古玩等等。
@@ -86,7 +88,7 @@ projects:
 #
 
 footer: >
-  <h6> Copyright © Ling Wei Zhen Trading 2020. All rights reserved. Chinatown 49 Temple Street.</h6>
+  <h6> Copyright © Ling Wei Zhen Trading 2020. All rights reserved. Chinatown, 49 Temple Street.</h6>
 
 #-------------------------------
 # Contact Section
