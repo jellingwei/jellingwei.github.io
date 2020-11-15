@@ -78,10 +78,11 @@ contact: >
 
 projects:
 - {name: '鼻烟壶', folder: 'snuffBottles', file: 'projects/snuffBottles.html'}
-- {name: '旧钞钱币', folder: 'notes', file: 'projects/notes.html'}
+- {name: '中国旧钞', folder: 'notes', file: 'projects/notes.html'}
+- {name: '茶壶', folder: 'teapots', file: 'projects/teapots.html'}
 # - {name: '古玩', folder: 'antiques', file: 'projects/antiques.html'}
 # - {name: '奇石', folder: 'ps', file: 'projects/ps.html'}
-# - {name: '茶壶', folder: 'teapots', file: 'projects/teapots.html'}
+#
 
 
 #-------------------------------
