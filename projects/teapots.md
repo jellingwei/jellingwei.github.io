@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Teapots'
+title: ''
 ---
 
 ## 茶壶 | Teapots
