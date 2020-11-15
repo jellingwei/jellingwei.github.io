@@ -79,6 +79,7 @@ contact: >
 # Work Section
 
 projects:
+- {name: '瓷器', folder: 'porcelain', file: 'projects/porcelain.html'}
 - {name: '鼻烟壶', folder: 'snuffBottles', file: 'projects/snuffBottles.html'}
 - {name: '新加坡金银钱币', folder: 'singaporeCoins', file: 'projects/singaporeCoins.html'}
 - {name: '中国旧钞', folder: 'notes', file: 'projects/notes.html'}
