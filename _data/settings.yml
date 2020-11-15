@@ -64,7 +64,7 @@ about: >
 contact: >
   # Ling Wei Zhen Trading
 
-  <i class="fa fa-map-marker" aria-hidden="true"></i> 49 Temple Street <br>
+  <i class="fa fa-map-marker" aria-hidden="true"></i> Chinatown 49 Temple Street <br>
   Singapore 058594 <br><br>
   
   <i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp： +65 82608282 （黄)   <br>
@@ -78,6 +78,7 @@ contact: >
 
 projects:
 - {name: '鼻烟壶', folder: 'snuffBottles', file: 'projects/snuffBottles.html'}
+- {name: '新加坡金银钱币', folder: 'notes', file: 'projects/singaporeCoins.html'}
 - {name: '中国旧钞', folder: 'notes', file: 'projects/notes.html'}
 - {name: '茶壶', folder: 'teapots', file: 'projects/teapots.html'}
 # - {name: '古玩', folder: 'antiques', file: 'projects/antiques.html'}
