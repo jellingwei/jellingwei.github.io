@@ -3,7 +3,7 @@ layout: post
 title: ''
 ---
 
-## Snuff Bottles | 鼻烟壶
+## 鼻烟壶 | Snuff Bottles 
 {% include image.html image="projects/snuffBottles/shuiShangPiao.jpg" %}
 {% include image.html image="projects/snuffBottles/snuffBottle1.jpg" %}
 {% include image.html image="projects/snuffBottles/agateSnuffBottle1.jpg" %}
