@@ -3,7 +3,7 @@ layout: post
 title: ''
 ---
 
-## Old Chinese Notes | 中国旧钞
+## 中国旧钞 | Old Chinese Notes
 
 {% include image.html  image="projects/notes/chinaOneDollar66Serial111.jpg" %}
 {% include image.html  image="projects/notes/chinaOneDollar66Serial444.jpg" %}
