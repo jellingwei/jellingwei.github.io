@@ -1,13 +1,19 @@
 <div class="image-container">
-  <a href="{{ include.url }}" target="_blank">
-    <img src="{{ site.github.url | replace: 'http://', '//' }}/assets/img/{{ include.image }}" alt="{{ include.alt }}" class="image">
-    <div class="overlay">
-      <div class="text">
-        {% if include.text %}
-          {{ include.text }} <i class="fa fa-arrow-right" aria-hidden="true"></i> 
-        {% else %}
-        {% endif %}
+  {% if include.url %}
+    <a href="{{ include.url }}" target="_blank">
+  {% else %}
+  {% endif %}    
+      <img src="{{ site.github.url | replace: 'http://', '//' }}/assets/img/{{ include.image }}" alt="{{ include.alt }}" class="image">
+      <div class="overlay">
+        <div class="text">
+          {% if include.text %}
+            {{ include.text }} <i class="fa fa-arrow-right" aria-hidden="true"></i> 
+          {% else %}
+          {% endif %}
+        </div>
       </div>
-    </div>
+ {% if include.url %}
   </a>
+  {% else %}
+  {% endif %}
 </div>
