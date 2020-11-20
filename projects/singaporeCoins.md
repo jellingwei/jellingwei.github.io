@@ -3,6 +3,8 @@ layout: post
 title: ''
 ---
 
+Here is a sample of our collection of Singapore Gold/Silver and commemorative coins.
+
 ## 新加坡金银钱币 | Singapore Gold/Silver Coins
 {% include image.html alt="SG 500 PF70" image="projects/singaporeCoins/sg500DollarsPF70.jpg" %}
 {% include image.html alt="SG 1992 PF69" image="projects/singaporeCoins/SG1992CommisionersG100F69.jpg" %}
