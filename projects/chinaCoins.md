@@ -4,6 +4,9 @@ title: ''
 ---
 
 ## 中国金银钱币 | China Gold/Silver Coins
+
+Here is a sample of our collection of China Gold/Silver Coins.
+
 {% include image.html alt="panda coin" image="projects/chinaCoins/panda.jpg" %}
 {% include image.html alt="panda 2012 G50" image="projects/chinaCoins/PandaG50Y2013.jpg" %}
 {% include image.html alt="panda 2013" image="projects/chinaCoins/PandaG200Y2013.jpg" %}
