@@ -82,6 +82,7 @@ projects:
 - {name: '瓷器', folder: 'porcelain', file: 'projects/porcelain.html'}
 - {name: '鼻烟壶', folder: 'snuffBottles', file: 'projects/snuffBottles.html'}
 - {name: '玉雕', folder: 'jadeCarvings', file: 'projects/jadeCarvings.html'}
+- {name: '玉佩', folder: 'jadePendant', file: 'projects/jadePendant.html'}
 - {name: '新加坡金银钱币', folder: 'singaporeCoins', file: 'projects/singaporeCoins.html'}
 - {name: '中国旧钞', folder: 'notes', file: 'projects/notes.html'}
 - {name: '中国金银钱币', folder: 'chinaCoins', file: 'projects/chinaCoins.html'}
