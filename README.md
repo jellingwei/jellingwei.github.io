@@ -2,7 +2,7 @@
 
 ### Description ###
 
-Personal Project to implement a webpage containing a photo gallery or products using #Portfolio Jekyll Theme
+Personal Project to implement a webpage containing a photo gallery of products using Portfolio Jekyll Theme
 
 #Portfolio Jekyll Theme
 
